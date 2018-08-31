@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
+
 }
 
 .clearfix::after {
@@ -52,7 +52,7 @@ body {
 **********************************************/
 
 .player-name {
-    font-size: 40px;
+    font-size: 39px;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -80,7 +80,7 @@ body {
     color: #EB4D4D;
     top: -7px;
     right: 10px;
-    
+
 }
 
 .player-current-box {
